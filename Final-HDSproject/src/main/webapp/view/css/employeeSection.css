@@ -20,7 +20,7 @@
 
     /*    Added (11/9)    */
     height: 150vh;
-    width: 330vh;
+    width: 395vh;
 }
 
 .customerRecords-content{
@@ -43,7 +43,7 @@
 
     /*    Added (11/9)    */
     height: 150vh;
-    width: 390vh;
+    width: 450vh;
 }
 
 .employeeRecords-content{
@@ -63,8 +63,9 @@
 
 
     /*    Added (11/9)    */
-    height: 150vh;
-    width: 250vh;
+    height: 475vh;
+    width: 410vh;
+    
 }
 
 .inventory-content {
@@ -98,6 +99,8 @@
 .monthlyStatement {
     background: url("../images/bg1.jpg");
     background-size: cover;
+
+    height: 200vh;
 
 }
 
@@ -140,6 +143,7 @@ h1 {
 
     /*    Added (11/9)    */
     height: 150vh;
+    width: 350vh;
 }
 .orderRecords-content{
     margin-left: 275px;
@@ -150,7 +154,7 @@ h1 {
 .saleReceipt{
     background: url("../images/bg1.jpg");
     background-size: cover;
-    height: 150vh;
+    height: 170vh;
 }
 
 .saleReceipt-container{
